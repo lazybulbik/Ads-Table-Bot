@@ -1,0 +1,1 @@
+TELEGRAM_TOKEN = '' # Токен полученный от BotFather
