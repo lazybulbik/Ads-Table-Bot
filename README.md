@@ -26,5 +26,5 @@
 ## Python version
 Бот написан с использованием Python версии `3.11.1`
 
-## Heading
+## Author
 (2023) Shaymardanov Ramil
